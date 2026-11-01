@@ -1,13 +1,10 @@
-# network-portfolio
-Network Engineering Portfolio | Enterprise Networking, Routing, Switching &amp; Network Security 5.
-
 # 👋 Welcome to My Network Engineering Portfolio
 
 ### Network Engineer | Network Infrastructure | Routing & Switching | Network Security
 
 I am interested in designing, implementing, documenting, and maintaining enterprise network infrastructure.
 
-My technical interests include enterprise networking, routing and switching, firewall administration, network monitoring, and network automation.
+My technical interests include enterprise networking, routing and switching, firewall administration, and network monitoring.
 
 ---
 
@@ -94,9 +91,7 @@ Currently developing knowledge and practical skills in:
 
 ## 📫 Contact
 
-GitHub: [Your GitHub Profile](https://github.com/)
-
-LinkedIn: [Your LinkedIn Profile](https://www.linkedin.com/)
+LinkedIn: [...](https://www.linkedin.com/)
 
 ---
 
