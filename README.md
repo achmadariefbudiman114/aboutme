@@ -40,8 +40,7 @@ My technical interests include enterprise networking, routing and switching, fir
 
 ### 🖥️ Infrastructure & Automation
 - Ubuntu Linux
-- Windows Server
-- VMware
+- Virtualization
 - Network Configuration Backup
 
 ### 🔧 Network Vendors
