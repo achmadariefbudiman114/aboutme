@@ -41,7 +41,6 @@ My technical interests include enterprise networking, routing and switching, fir
 ### 🖥️ Infrastructure & Automation
 - Ubuntu Linux
 - Virtualization
-- Network Configuration Backup
 
 ### 🔧 Network Vendors
 - Huawei
