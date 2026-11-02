@@ -79,7 +79,6 @@ Documented enterprise network infrastructure covering office networks, workshop 
 Currently developing knowledge and practical skills in:
 
 - Enterprise Network Architecture
-- Huawei Datacom
 - BGP and OSPF Routing
 - Network Security
 - Network Monitoring
@@ -89,7 +88,7 @@ Currently developing knowledge and practical skills in:
 
 ## 📫 Contact
 
-LinkedIn: [...](https://www.linkedin.com/)
+LinkedIn: [. . .](https://www.linkedin.com/)
 
 ---
 
