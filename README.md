@@ -68,7 +68,7 @@ Documented enterprise network infrastructure covering office networks, workshop 
 - Firewall and Routing Implementation Scope
 - Wireless Infrastructure Documentation
 
-[View Project](./professional-projects/README.md)
+[View Project](/professional-projects/README.md)
 
 *Note: This project is presented as documentation of the available project scope. Original test results and configuration evidence are unavailable.*
 
